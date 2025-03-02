@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ycsiahaan-log
 - 👀 I’m interested in anything
 - 🌱 I’m currently learning backend dev
-- 😄 Pronouns: elgato
+- 😄 Pronouns: el-Lato
 - ⚡ Fun fact: no fun fact
 
 <!---
